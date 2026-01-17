@@ -5,6 +5,7 @@ local modInfo = {
     type = "world",
     developer = "Yaz (upgraded from original by clueless)",
     loadOrder = 1,
+    preview = "Charcoal.jpg"
 }
 
 return modInfo
